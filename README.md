@@ -1,1 +1,1 @@
-# MovieRatingAnalysis
+This is the MovieRatings readme file
